@@ -9,7 +9,6 @@
   </parent>
   <groupId>com.alma.groupe9.presentation</groupId>
   <artifactId>Presentation</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
   <name>Presentation</name>
   <url>http://maven.apache.org</url>
