@@ -9,7 +9,7 @@
   </parent>
   <groupId>com.alma.groupe9.infrastructure</groupId>
   <artifactId>Infrastructure</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  
   <name>Infrastructure</name>
   <url>http://maven.apache.org</url>
   <properties>
@@ -22,5 +22,12 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+    
+    <dependency>
+	  <groupId>com.alma.groupe9.domain</groupId>
+	  <artifactId>Domain</artifactId>
+	  <version>0.0.1-SNAPSHOT</version>
+	</dependency>
+    
   </dependencies>
 </project>

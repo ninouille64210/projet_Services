@@ -76,6 +76,12 @@
 			<artifactId>cobertura</artifactId>
 			<version>2.1.1</version>
 		</dependency>
+		
+		<dependency>
+			<groupId>org.codehaus.jackson</groupId>
+			<artifactId>jackson-mapper-asl</artifactId>
+			<version>1.9.13</version>
+		</dependency>
 	</dependencies>
 	<modules>
     <module>Api</module>
